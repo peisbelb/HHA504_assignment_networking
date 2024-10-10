@@ -1,4 +1,4 @@
-*Azure* 
+# *Azure* 
 
 
 To create a virtual network through Azure, first, we will need to access the Virtual Networks service provided on the Azure website and click "Create virtual network"
@@ -24,7 +24,7 @@ Lastly, under the Overview tab, we will be able to toggle to "capabilities" and 
 
 
 
-*GCP*
+# *GCP*
 
 In GCP, we will see that similar to Azure, we will be able to create a Virtual Network (in GCP it is labled as VPC networks). We will leave the MTU as 1460 and the mode will be labled as custom. 
 
